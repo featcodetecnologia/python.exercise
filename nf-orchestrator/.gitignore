@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.venv/
+*.egg-info/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Docker
+**/Dockerfile
+**/docker-compose.override.yml
+
+# Poetry
+poetry.lock
